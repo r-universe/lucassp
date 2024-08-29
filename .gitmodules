@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "rmerec"]
 	path = rmerec
-	url = https://github.com/lucassp/rmerec
+	url = https://github.com/cran/rmerec
